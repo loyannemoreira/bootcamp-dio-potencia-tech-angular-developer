@@ -14,32 +14,46 @@ Duração: 75 hrs
 - Melhorar seu código;
 - Reconhecimento.
 
-### Comandos - Windows:
+### Comandos - Windows
 - cd
 - dir
 - mkdir
 - del/rmdir
 
-### Comandos - Unix:
+### Comandos - Unix
 - cd
 - ls
 - mkdir
 - rm -rf
 
-### Objetos internos:
+### Objetos internos
 - Blobs
 - Trees
 - Commits
 
-# JavaScript
+### Comandos
+#### Configuração
 
+**Verificar a configuração atual:**
+- git config --list
+
+**Resetar a configuração:**
+- git config --global --unset user.email
+- git config --global --unset user.nickname
+- git config --global --unset user.name
+
+**Configurar Usuário, nickname e e-mail:**
+- git config --global user.email "email@dominio.com"
+- git config --global user.nickname "nickname"
+- git config --global user.name "Nome do Usuário"
+
+# JavaScript
 
 
 ## Funções
  
 
 ## Objetos e Classes
-
 
 
 ## Arrays e Estruturas
