@@ -35,4 +35,3 @@ const loyanne = new Pessoa('Loyanne', 33);
 const mariana = new Pessoa('Mariana', 31);
 
 compararPessoas(loyanne, mariana);
-
