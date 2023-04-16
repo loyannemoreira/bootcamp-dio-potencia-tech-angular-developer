@@ -1,4 +1,4 @@
-﻿# Bootcamp DIO - Potência Tech Angular Developer
+# Bootcamp DIO - Potência Tech Angular Developer
 
 Bootcamp da DIO: Potência Tech Angular Developer - Powered by iFood
 Duração: 75 hrs
