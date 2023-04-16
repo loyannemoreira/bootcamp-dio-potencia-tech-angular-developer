@@ -8,7 +8,3 @@ for (i = 0; i <=20; i++) {
       console.log(i);
     }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 1ff366fb80a36c4d41cdc240585fd403e4ad4155
