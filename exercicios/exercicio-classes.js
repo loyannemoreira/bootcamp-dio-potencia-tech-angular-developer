@@ -46,3 +46,4 @@ class Pessoa {
 const loyanne = new Pessoa ('Loyanne', 63, 1.78);
 console.log(loyanne.calcularImc());
 console.log(loyanne.classificarImc());
+
